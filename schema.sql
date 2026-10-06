@@ -1,3 +1,6 @@
+--Create library members table
+--Create library loans table
+
 -- The library database: two empty tables.
 -- Dropping first means this script can be run again to start over.
 DROP TABLE IF EXISTS loans;
