@@ -1,3 +1,4 @@
+--Community Library Book Loans Report
 -- 3. show all library members
 SELECT
    id,
